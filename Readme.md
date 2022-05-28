@@ -17,11 +17,10 @@
 <img src="https://git-scm.com/images/logos/downloads/Git-Icon-White.png" height="60px"/>
 <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" height="60px"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Windows_Terminal_Logo_256x256.png" height="60px"/>
-</div>
 <hr>
 <h3 style="color: white;" align="center">Contact:</h3>
-<div align="center">   
-![linkdin](https://cdn-icons-png.flaticon.com/512/174/174857.png " height="40px")(https://www.linkedin.com/in/varad-pundlik-3a6178205)
-![gmail](https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png" height="40px")(mailto:varadpundlik@gmail.com)
-![instagram](https://www.freepnglogos.com/uploads/logo-ig-png/logo-ig-stunning-instagram-logo-vector-download-for-new-7.png" height="40px")(https://www.instagram.com/varadpundlik_/)
+
+[![linkdin](https://cdn-icons-png.flaticon.com/512/174/174857.png " height="40px")](https://www.linkedin.com/in/varad-pundlik-3a6178205)
+[![gmail](https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png" height="40px")](mailto:varadpundlik@gmail.com)
+[![instagram](https://www.freepnglogos.com/uploads/logo-ig-png/logo-ig-stunning-instagram-logo-vector-download-for-new-7.png" height="40px")](https://www.instagram.com/varadpundlik_/)
 </div>
