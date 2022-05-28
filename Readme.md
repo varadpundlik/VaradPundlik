@@ -7,17 +7,19 @@
     </p>
     </div>
     <h3 style="color: white;" align="center">Skills:</h3>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png" />
-<img src="https://iconape.com/wp-content/files/yb/61798/svg/flutter-logo.svg" />
-<img src="https://git-scm.com/images/logos/downloads/Git-Icon-White.png" />
-<img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Windows_Terminal_Logo_256x256.png" />
-
+<div align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" height="60px"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png" height="60px"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" height="60px"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png" height="60px"/>
+<img src="https://iconape.com/wp-content/files/yb/61798/svg/flutter-logo.svg" height="60px"/>
+<img src="https://git-scm.com/images/logos/downloads/Git-Icon-White.png" height="60px"/>
+<img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" height="60px"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Windows_Terminal_Logo_256x256.png" height="60px"/>
+</div>
 <h3 style="color: white;" align="center">Contact:</h3>
-    
-[<img src=" https://cdn-icons-png.flaticon.com/512/174/174857.png " />](https://www.linkedin.com/in/varad-pundlik-3a6178205)
-[<img src=" https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png" />](mailto:varadpundlik@gmail.com)
+<div align="center">   
+[<img src=" https://cdn-icons-png.flaticon.com/512/174/174857.png " height="40px"/>](https://www.linkedin.com/in/varad-pundlik-3a6178205)
+[<img src=" https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png" height="40px"/>](mailto:varadpundlik@gmail.com)
 [<img src="https://www.freepnglogos.com/uploads/logo-ig-png/logo-ig-stunning-instagram-logo-vector-download-for-new-7.png" height="40px"/>](https://www.instagram.com/varadpundlik_/)
+</div>
