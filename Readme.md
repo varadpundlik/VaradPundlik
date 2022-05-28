@@ -9,21 +9,20 @@
     </p>
     </div>
     <h3 style="color: white;" align>Skills:</h3>
-    <ul class="skills" style="display: flex;">
-        <li style="order: 1;"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" height="60px"></li>
-        <li style="order: 2;"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png" height="60px"></li>
-        <li style="order: 3;"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" height="60px"></li>
-        <li style="order: 4;"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png" height="60px"></li>
-        <li style="order: 5;"><img src="https://iconape.com/wp-content/files/yb/61798/svg/flutter-logo.svg" height="60px"></li>
-        <li style="order: 6;"><img src="https://git-scm.com/images/logos/downloads/Git-Icon-White.png" height="60px"></li>
-        <li style="order: 7;"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" height="60px"></li>
-        <li style="order: 8;"><img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Windows_Terminal_Logo_256x256.png" height="60px"></li>
-    </ul>
-    <h3 style="color: white;">Contact:</h3>
-    <l class="Contact" style="display: flex;">
-        <li style="order: 1;"><a href="https://www.linkedin.com/in/varad-pundlik-3a6178205"><img src=" https://cdn-icons-png.flaticon.com/512/174/174857.png " height="40px"></a></li>
-        <li style="order: 2;"><a href=" mailto:varadpundlik@gmail.com"><img src=" https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png" height="40px"></a></li>
-        <li style="order: 3;"><a href="https://www.instagram.com/varadpundlik3105/ "><img src="https://www.freepnglogos.com/uploads/logo-ig-png/logo-ig-stunning-instagram-logo-vector-download-for-new-7.png" height="40px"></a></li>
-    </l>#   V a r a d P u n d l i k 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" height="60px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png" height="60px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" height="60px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png" height="60px">
+<img src="https://iconape.com/wp-content/files/yb/61798/svg/flutter-logo.svg" height="60px">
+<img src="https://git-scm.com/images/logos/downloads/Git-Icon-White.png" height="60px">
+<img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" height="60px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Windows_Terminal_Logo_256x256.png" height="60px">
+
+<h3 style="color: white;">Contact:</h3>
+    
+<a href="https://www.linkedin.com/in/varad-pundlik-3a6178205"><img src=" https://cdn-icons-png.flaticon.com/512/174/174857.png " height="40px"></a>
+<a href=" mailto:varadpundlik@gmail.com"><img src=" https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png" height="40px"></a>
+<a href="https://www.instagram.com/varadpundlik3105/ "><img src="https://www.freepnglogos.com/uploads/logo-ig-png/logo-ig-stunning-instagram-logo-vector-download-for-new-7.png" height="40px"></a>
+#   V a r a d P u n d l i k 
  
  
