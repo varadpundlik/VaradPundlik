@@ -20,7 +20,7 @@
 <hr>
 <h3 style="color: white;" align="center">Contact:</h3>
 
-[![linkdin](https://cdn-icons-png.flaticon.com/512/174/174857.png)](https://www.linkedin.com/in/varad-pundlik-3a6178205)
-[![gmail](https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png)](mailto:varadpundlik@gmail.com)
-[![instagram](https://www.freepnglogos.com/uploads/logo-ig-png/logo-ig-stunning-instagram-logo-vector-download-for-new-7.png)](https://www.instagram.com/varadpundlik_/)
+[!<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="40px">](https://www.linkedin.com/in/varad-pundlik-3a6178205)
+[!<img src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png" height="40px">](mailto:varadpundlik@gmail.com)
+[!<img src="https://www.freepnglogos.com/uploads/logo-ig-png/logo-ig-stunning-instagram-logo-vector-download-for-new-7.png" height="40px">](https://www.instagram.com/varadpundlik_/)
 </div>
