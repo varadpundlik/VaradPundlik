@@ -66,10 +66,9 @@ height="60px" class="imag">
     height="60px" class="imag">
 <img src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png"
     height="60px" class="imag">
-    <br>
-    <h4 align="center" style="color: white;">Developer Tools</h4>
-    <br>
-    
+<br>
+<h4 align="center" style="color: white;">Developer Tools</h4>
+<br>
 <img src="https://e7.pngegg.com/pngimages/713/558/png-clipart-computer-icons-pro-git-github-logo-text-logo-thumbnail.png"
     height="60px" class="imag">
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtOPuZyzxmuy3mJO1Vzwf2Z-nYxDJVWkFMvg&usqp=CAU"
