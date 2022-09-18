@@ -18,22 +18,9 @@
 <h1 align="center" style="color: rgb(0, 196, 251);" id="ow_title"><b>What can I do ?</b></h1>
 <br>
 
-<h3>Web development</h3>
-<img src="Assets/ColorlessBitesizedKob-max-1mb.gif" height="120px" id="web-logo">
+<a href="https://www.codechef.com/users/varad_pundlik"><img
+src="https://cdn.codechef.com/sites/all/themes/abessive/cc-logo.svg" height="70px">See codechef Profile</a>
 
-<br>
-  
-<h3>Competitive Programming</h3>
-<img src="Assets/rubikscube_3.gif" height="120px" id="cp-logo">
-
-<br>
-
-<br>
- 
-<a href="https://www.codechef.com/users/varadpundlik"><img
-src="https://cdn.codechef.com/sites/all/themes/abessive/cc-logo.svg" height="70px"></a>
-<a href="https://www.codechef.com/users/varadpundlik"><img src="Assets/codechef rating.png"
-height="70px"></a>
  
 <br>
 
@@ -54,8 +41,6 @@ width="100px"></a>
  
 <br>
 <h1 align="center" color="white" class="sk_title"><b>Skills</b></h1><br>
-    
-<img src=https://media0.giphy.com/media/2Ygy0khwewLgMSYM0t/giphy.gif?cid=6c09b952a4v1jtwljs3sdfkzwpx3tq7g5l3tvf39jzunvyvs&rid=giphy.gif&ct=s" id="skills_icon">
 
 <h4 align="center" style="color: white;">Languages</h4>
 <br>
