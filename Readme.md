@@ -1,21 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" rel="stylesheet">
-    <link rel="stylesheet" href="style.css">
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="shortcut icon"
-        href="https://varadvpundlik.files.wordpress.com/2021/11/cropped-cropped-cropped-screenshot_20211019-2200472.png?w=512"
-        type="image/x-icon">
-    <title>Varad Pundlik</title>
-
-</head>
-
-<body>
-    <script src="script.js"></script>
     <div id="container">
         <h1 class="title" align="center"><b>Varad Pundlik </b>👨‍💻</h1>
         <br>
@@ -154,9 +136,4 @@
                 height="40px"></a>
         </div>
     <div class="footer" align="center"> Copyright-2022 Website owned,created and managed by: Varad Pundlik </div>
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-A3rJD856KowSb7dwlZdYEkO39Gagi7vIsF0jrRAoQmDKKtQBHUuLZ9AsSv4jD4Xa" crossorigin="anonymous"></script>
-    <script src="script.js"></script>
-    
-</body>
-
-</html>
+ 
