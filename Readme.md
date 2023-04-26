@@ -1,3 +1,5 @@
+<div align="center">
+  
 # 💫 About Me:
 Hello!!! I'm MERN stack web developer<br>Codechef 2-star competitive programmer<br>ML enthusiast<br>Computer Engineering student at PICT<br>
 
@@ -21,4 +23,4 @@ Hello!!! I'm MERN stack web developer<br>Codechef 2-star competitive programmer<
 ---
 [![](https://visitcount.itsvg.in/api?id=varadpundlik&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
