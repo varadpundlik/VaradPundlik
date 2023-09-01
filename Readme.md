@@ -1,69 +1,157 @@
-<h1 class="title" align="center"><b>Varad Pundlik </b>👨‍💻</h1>
-<br>
-<div align=center>
-<img src="https://varadvpundlik.files.wordpress.com/2020/04/img_20210815_153630093_burst000_cover_top-01.jpg"
-    id="photo" align="center" height=120px>
-<h3 class="content" align="center">Heyy!!! 👋<br>I'm Varad Pundlik</h3><br>
-<p class="content" align="center"> Varad Pundlik Here. Currently studying in First Year of Computer Enginreering
-    at Pune
-    Institute of Computer
-    Technology.
-    Cleared MHT CET-21 , JEE Main-21 and JEE Advanced-21.
-    <br>
-    I am a front-end web designer and competitive programmer.
-</p>
-    
-<br>
-<br>
+<div align="center">
+  <img height="200" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif"  />
+</div>
 
-[<img
-src="https://cdn.codechef.com/sites/all/themes/abessive/cc-logo.svg" height="70px">](https://www.codechef.com/users/varad_pundlik)
-<br>
-[<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtOPuZyzxmuy3mJO1Vzwf2Z-nYxDJVWkFMvg&usqp=CAU"
-height="70px">](https://github.com/varadpundlik)</a>
-<br>
-[<img
-src="https://cdn.iconscout.com/icon/free/png-256/code-forces-3629285-3031869.png" height="70px"
-width="100px">](https://codeforces.com/profile/varadPundlik)
-<br>
-<h1 align="center" color="white" class="sk_title"><b>Skills</b></h1><br>
+###
 
-<h4 align="center" style="color: white;">Languages</h4>
-<br>
-   
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png"
-height="60px" class="imag"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png"
-    height="60px" class="imag"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png"
-    height="60px" class="imag"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png"
-    height="60px" class="imag"/>
-<img src="https://iconape.com/wp-content/files/ez/353342/svg/javascript-seeklogo.com.svg" height="60px" class="imag">
+<h2 align="center">Hi 👋! My name is  Varad</h2>
 
-<h4 align="center" style="color: white;">Frameworks</h4>
-<br>
-    
-<img src="https://iconape.com/wp-content/files/yb/61798/svg/flutter-logo.svg" height="60px" class="imag"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png" height="60px" class="imag"/>
-<img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" height="60px" class="imag"/>
-<img src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png"
-    height="60px" class="imag"/>
-<br>
-<h4 align="center" style="color: white;">Developer Tools</h4>
-<br>
-<img src="https://e7.pngegg.com/pngimages/713/558/png-clipart-computer-icons-pro-git-github-logo-text-logo-thumbnail.png"
-    height="60px" class="imag"/>
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtOPuZyzxmuy3mJO1Vzwf2Z-nYxDJVWkFMvg&usqp=CAU"
-    height="60px" class="imag"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/f/f9/Windows_Terminal_Logo.png?20190622111111"
-    height="60px" class="imag"/>
+###
 
-<br>
-       
-<h1 align="center" style="color: white;" class="sk_title">Contact</h1>
-    
-[<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="40px">](https://www.linkedin.com/in/varad-pundlik-3a6178205)
-[<img src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png" height="40px">](mailto:varadpundlik@gmail.com)
-[<img src="https://www.freepnglogos.com/uploads/logo-ig-png/logo-ig-stunning-instagram-logo-vector-download-for-new-7.png" height="40px">](https://www.instagram.com/varadpundlik31/)
-</div>    
+<p align="center">I am full stack web developer <br>I am third year computer engineer student at PICT Pune</p>
+
+###
+
+<p align="left"></p>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=varadpundlik&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=varadpundlik&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=varadpundlik&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<p align="center">Programming Languages</p>
+
+###
+
+<div align="center">
+  <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" height="30" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="30" alt="python logo"  />
+</div>
+
+###
+
+<p align="center">Frontend</p>
+
+###
+
+<div align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" height="30" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white&style=for-the-badge" height="30" alt="redux logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/MUI-007FFF?logo=mui&logoColor=white&style=for-the-badge" height="30" alt="materialui logo"  />
+</div>
+
+###
+
+<p align="center">Backend</p>
+
+###
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge" height="30" alt="express logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=for-the-badge" height="30" alt="flask logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=black&style=for-the-badge" height="30" alt="postman logo"  />
+</div>
+
+###
+
+<p align="center">Databases</p>
+
+###
+
+<div align="center">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="30" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" height="30" alt="postgresql logo"  />
+</div>
+
+###
+
+<p align="center">ML libraries</p>
+
+###
+
+<div align="center">
+  <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge" height="30" alt="numpy logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" height="30" alt="pandas logo"  />
+</div>
+
+###
+
+<p align="center">DevOps</p>
+
+###
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="30" alt="github logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" height="30" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge" height="30" alt="ubuntu logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=black&style=for-the-badge" height="30" alt="jupyter logo"  />
+</div>
+
+###
+
+<h3 align="center">Socials</h3>
+
+###
+
+<div align="center">
+  <a href="https://www.instagram.com/varadpundlik31/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <a href="varadpundlik@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/varad-pundlik-3a6178205/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.facebook.com/varadpundlik31/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
+  </a>
+  <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="stackoverflow logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/varadpundlik/varadpundlik/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/varadpundlik/count.svg?"  />
+</div>
+
+###
