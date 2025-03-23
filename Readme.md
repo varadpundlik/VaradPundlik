@@ -8,7 +8,7 @@
 
 ###
 
-<p align="center">I am full stack web developer <br>I am third year computer engineer student at PICT Pune</p>
+<p align="center">I am full stack web developer <br>I am final year computer engineer student at PICT Pune</p>
 
 ###
 
